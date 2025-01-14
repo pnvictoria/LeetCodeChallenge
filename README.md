@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

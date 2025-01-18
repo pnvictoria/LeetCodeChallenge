@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/pnvictoria/LeetCodeChallenge/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
